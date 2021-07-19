@@ -7,9 +7,9 @@ html {
 
 :root { 
     --bgcolor: #dfdfdf; 
-    --fontcolor: #444; 
-    --linkcolor: #00e; 
-    --visitedcolor: #551a8b; 
+    --fontcolor: #333; 
+    --linkcolor: #333; 
+    --visitedcolor: #333; 
     --precolor: #fff; 
     --prebgcolor: #000;
 }
@@ -18,14 +18,16 @@ html {
     :root { --bgcolor: black; --fontcolor: white; --linkcolor: #5bf; --visitedcolor: #ae5ee0; --precolor: #fff; --prebgcolor: #383838;}}
 
 body {
+    background-color: rgba(240,248,255, .1);
     color:var(--fontcolor); 
     font:18px/1.5 monospace;
-    margin:40px auto;
+    margin: 0px auto;
     max-width:800px;
-    padding:0 10px;
+    padding:40px 10px;
 }
 
-a:link{color: var(--linkcolor)}
+a:link{color: var(--linkcolor); text-decoration: none;}
+a:hover {text-decoration: underline;}
 a:visited{color: var(--visitedcolor)}
 a:active{color: var(--visitedcolor)}
 h1,h2,h3{line-height:1.2}
@@ -37,4 +39,7 @@ img {display: block; max-width: 100%; height: auto;}
 figcaption {color: #888; font: 12px/1.5 monospace; text-align: center;}
 figure {margin: auto}
 
-header > div { display: flex; flex-direction: row; justify-content: space-between;}
+header > div { border-bottom: 1px solid #333; display: flex; flex-direction: row; justify-content: space-between; margin-bottom: 8px; }
+header > div > h1 { font-size: 30px; font-weight: bold; margin: 0; }
+header > div > span { font-size: 14px; font-weight: normal; line-height: 3; }
+@media (max-width: 399px) { header > div > span { display: none;} }
