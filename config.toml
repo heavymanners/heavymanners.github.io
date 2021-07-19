@@ -1,0 +1,50 @@
+baseURL = "http://michaeltoddlewis.com/"
+languageCode = "en-us"
+title = "BIGTIME"
+theme = "smol"
+#publishDir = "c:\\_src\\heavymanners.github.io"
+paginate = 5
+
+# Parameters
+[params]
+    subtitle = "I'm on my way. I'm making it."
+    dateFmt = "02 Jan 2006 15:04"
+    #dateFmt = "01 Jan 2006 15:04"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "about"
+        name = "About Me"
+        url = "/about/"
+        weight = 3
+
+  [[menu.main]]
+        identifier = "posts"
+        name = "All Posts"
+        url = "/posts/"
+        weight = 2
+
+#  Example of a category link 
+#  [[menu.main]]
+#        identifier = "music"
+#        name = "Music"
+#        url = "/categories/music"
+#        weight = 3
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "Browse Posts by Tag"
+        url = "/tags/"
+        weight = 1
+
+# Footer
+  [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/heavymanners"
+        weight = 1 
+
+    [[menu.footer]]
+        name = "Instagram"
+        url = "https://instagram.com/mikebigtime"
+        weight = 2 

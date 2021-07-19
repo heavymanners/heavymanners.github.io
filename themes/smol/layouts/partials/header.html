@@ -1,0 +1,14 @@
+<header>
+	<div>
+		<h1>{{ .Site.Title }}</h1>
+		<span>{{ .Site.Params.subtitle }}</span>
+    </div>
+    <nav>
+			<a href="/"><b>Latest</b></a>
+			{{ with .Site.Menus.main }}
+			{{ range . }}
+			>> <a href="{{ .URL | relURL }}"><b>{{ .Name }}</b></a> 
+			{{ end }}
+	</nav>
+	{{ end }}
+</header>
