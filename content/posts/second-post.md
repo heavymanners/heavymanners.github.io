@@ -1,7 +1,7 @@
 ---
 title: "Awxon Post"
 date: 2021-07-18T15:48:48-04:00
-draft: true
+draft: false
 categories: 
 - foo
 tags:
