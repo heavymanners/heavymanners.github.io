@@ -1,6 +1,6 @@
 ---
-title: "About"
-date: 2021-07-11T17:29:34-04:00
+title: "About Me and this Site"
+date: 2021-07-19T20:27:34-04:00
 draft: false
 ---
 My name is Michael Todd Lewis, though my friends call me Bigtime, or more often Biggie or just Big. My pronouns are whatever you feel like, but most people use he/him with me. This website serves as a new blog for me, just somewhere to capture some thoughts and share things I find interesting. 
