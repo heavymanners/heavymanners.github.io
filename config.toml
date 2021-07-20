@@ -2,7 +2,7 @@ baseURL = "http://michaeltoddlewis.com/"
 languageCode = "en-us"
 title = "BIGTIME"
 theme = "smol"
-#publishDir = "c:\\_src\\heavymanners.github.io"
+publishDir = "docs"
 paginate = 5
 
 # Parameters
