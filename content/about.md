@@ -11,5 +11,3 @@ I am a software development team leader by trade. I believe very deeply in the p
 I also dabble in creating art, making music, and writing. I am tattoo collector. I love dogs. I love music and art and reading. I enjoy hiking and trying new restaurants or visiting old favorites. I like laughing with my friends. 
 
 Life isn't just for surviving. It's for joy and meaning and fulfillment. Not just bread, but roses too. 
-
-I am a socialist and an atheist but have found plenty of common ground with people of other worldviews. However, I am completely intolerant of racism and all forms of gender- or sex-based bigotry. 
