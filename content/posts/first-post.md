@@ -1,14 +1,8 @@
 ---
-title: "Hello"
-date: 2021-07-11T17:29:34-04:00
+title: "First Post"
+date: 2021-07-19T20:27:34-04:00
 draft: false
-categories: 
-- foo
-- bar
-tags:
-- baz
-- bat
-summary: This is a summary of what the article is about.
+summary: This is my first post on my new site. It will get deleted when I am finished setting stuff up.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius dapibus congue. Duis luctus ligula sapien, ut laoreet lacus sodales quis. Vivamus eu nibh sed diam pulvinar vehicula id et magna. In ut velit sapien. Phasellus eu pretium nulla, in mollis ante. Quisque a suscipit leo, eu sagittis felis. Maecenas a dictum tortor, nec malesuada leo. Aliquam orci purus, suscipit eget elit ut, commodo ornare dui. Praesent diam lorem, iaculis id nulla id, mollis accumsan augue. Cras euismod augue nec est malesuada posuere. Praesent imperdiet finibus velit sed maximus. Maecenas eleifend sem a dictum mattis. Quisque malesuada odio id accumsan posuere. Nam maximus magna sit amet nulla egestas, et aliquam mauris congue.
