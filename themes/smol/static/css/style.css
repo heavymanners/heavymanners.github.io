@@ -15,14 +15,17 @@ html {
 }
 
 @media (prefers-color-scheme: dark) { 
-    :root { --bgcolor: black; --fontcolor: white; --linkcolor: #5bf; --visitedcolor: #ae5ee0; --precolor: #fff; --prebgcolor: #383838;}}
+    /* :root { --bgcolor: black; --fontcolor: white; --linkcolor: #5bf; --visitedcolor: #ae5ee0; --precolor: #fff; --prebgcolor: #383838;} */
+}
 
 body {
     background-color: rgba(240,248,255, .1);
+box-sizing: border-box;
     color:var(--fontcolor); 
     font:18px/1.5 monospace;
     margin: 0px auto;
     max-width:800px;
+    min-height: 100vh;
     padding:40px 10px;
 }
 
