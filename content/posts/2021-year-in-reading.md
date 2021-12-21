@@ -1,7 +1,7 @@
 ---
 title: "What I Read in 2021"
 date: 2021-12-20T20:27:34-04:00
-draft: true
+draft: false
 summary: Wherein I reflect, briefly, on the books I read in 2021.
 ---
 
