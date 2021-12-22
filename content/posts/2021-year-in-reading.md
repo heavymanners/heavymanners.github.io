@@ -3,9 +3,12 @@ title: "What I Read in 2021"
 date: 2021-12-20T20:27:34-04:00
 draft: false
 summary: Wherein I reflect, briefly, on the books I read in 2021.
+tags: 
+  - books
+  - 2021 recap
 ---
 
-I kicked off 2021 by finishing up Rebecca Roanhorse's mind-blowing apocolyptic fantasy ***Black Sun***, the best fantasy book I've read since reading Abercrombie's ***First Law*** trilogy. Over the next twelve months I read something in the neighborhood of thirty books, ranging from dystopian science fiction to historical fantasy, violent noir to family drama. I revisited old favorites and explored new (to me) authors from around the globe.
+I kicked off 2021 by finishing up Rebecca Roanhorse's mind-blowing apocalyptic fantasy ***Black Sun***, the best fantasy book I've read since reading Abercrombie's ***First Law*** trilogy. Over the next twelve months I read something in the neighborhood of thirty books, ranging from dystopian science fiction to historical fantasy, violent noir to family drama. I revisited old favorites and explored new (to me) authors from around the globe.
 
 By far the most thought-provoking read of the year was ***Tender is the Flesh*** by Agustina Bazterrica. This grotesque dystopian novel rewards readers who power through stomach-turning passages with an exploration of the silence we as people respond with in the face of every-day atrocities. Eleven months later, and I still regularly think about this book.
 
