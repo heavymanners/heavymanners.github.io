@@ -44,4 +44,5 @@ Other highlights from the year included the rollicking magical realism of ***Rai
 1. The Whisper Man - Alex North
 1. Blackwood - Michael Farris Smith
 1. The Lord of the Rings (one volume edition) - JRR Tolkien
-1. The Hell Bent Kid - Charles O LOcke
+1. The Hell Bent Kid - Charles O Locke
+1. The Winter of Frankie Machine - Don Winslow
