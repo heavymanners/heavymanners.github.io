@@ -8,13 +8,13 @@ tags:
   - 2021 recap
 ---
 
-I kicked off 2021 by finishing up Rebecca Roanhorse's mind-blowing apocalyptic fantasy ***Black Sun***, the best fantasy book I've read since reading Abercrombie's ***First Law*** trilogy. Over the next twelve months I read something in the neighborhood of thirty books, ranging from dystopian science fiction to historical fantasy, violent noir to family drama. I revisited old favorites and explored new (to me) authors from around the globe.
+I kicked off 2021 by finishing up Rebecca Roanhorse's mind-blowing apocalyptic fantasy ***Black Sun***, the best fantasy book I've read since reading Abercrombie's ***First Law*** trilogy. Roanhorse's quasi-Mesoamerican fantasy setting is refreshing not just as a change of scenery from the tried-and-often-tired European flavor of most mainstream fantasy; it is also refreshing in its normalization of queerness. Not every fantasy world has to carry with it the prejudices of the real world, and Roanhorse gives us a richly diverse society without making that the focus of the book, letting readers absorb the normalcy as part of the world in a reflection of the banal acceptance many of us wish to see in the real world. 
 
 By far the most thought-provoking read of the year was ***Tender is the Flesh*** by Agustina Bazterrica. This grotesque dystopian novel rewards readers who power through stomach-turning passages with an exploration of the silence we as people respond with in the face of every-day atrocities. Eleven months later, and I still regularly think about this book.
 
 Rounding out my unintentional theme of apocalypse and plague, Christopher Buehlman's ***Between Two Fires*** was another highlight from the year. A fever dream odyssey across France during the height of the Black Death, the story presents plague-ridden Europe as a literal hell on Earth, a playground for devils and demons as God has his eye elsewhere. But despite the horrors, there is a thread of hope throughout.
 
-Other highlights from the year included the rollicking magical realism of ***Raise a Holler***, the pot-boiling noir of ***Blacktop Wasteland***, the visceral gut punch of ***Between the World and Me***, and a long-overdue revisit of one of my all-time favorite books ***Ordinary People***. The full list of the books I read this year is below. The coming year has a lot to live up to!
+Other highlights from the year included the rollicking magical realism of ***Raise a Holler***, the pot-boiling noir of ***Blacktop Wasteland***, the visceral gut punch of ***Between the World and Me***, and a long-overdue revisit of one of my favorite books ***Ordinary People***. The full list of the books I read this year is below. The coming year has a lot to live up to!
 
 1. Black Sun - Rebecca Roanhorse
 1. Tapping the Source - Kem Nunn
