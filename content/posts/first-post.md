@@ -1,6 +1,6 @@
 ---
 title: "On Work-Life Balance"
-date: 2021-07-19T20:27:34-04:00
+date: 2022-01-02T00:00:00-04:00
 draft: true
 summary: .
 ---
