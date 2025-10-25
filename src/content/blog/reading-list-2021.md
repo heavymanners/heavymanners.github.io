@@ -1,0 +1,53 @@
+---
+title: 'What I Read in 2021'
+publishDate: 2021-12-20T20:27:34-04:00
+excerpt: Wherein I reflect, briefly, on the books I read in 2021.
+tags:
+  - books
+  - 2021 recap
+seo:
+  image:
+    src: '/post-4.jpg'
+    alt: Wavy lines on a dark background
+---
+
+![Wavy lines on a dark background](/post-4.jpg)
+
+I kicked off 2021 by finishing up Rebecca Roanhorse's mind-blowing apocalyptic fantasy **_Black Sun_**, the best fantasy book I've read since reading Abercrombie's **_First Law_** trilogy. Roanhorse's quasi-Mesoamerican fantasy setting is refreshing not just as a change of scenery from the tried-and-often-tired European flavor of most mainstream fantasy; it is also refreshing in its normalization of queerness. Not every fantasy world has to carry with it the prejudices of the real world, and Roanhorse gives us a richly diverse society without making that the focus of the book, letting readers absorb the normalcy as part of the world in a reflection of the banal acceptance many of us wish to see in the real world.
+
+By far the most thought-provoking read of the year was **_Tender is the Flesh_** by Agustina Bazterrica. This grotesque dystopian novel rewards readers who power through stomach-turning passages with an exploration of the silence we as people respond with in the face of every-day atrocities. Eleven months later, and I still regularly think about this book.
+
+Rounding out my unintentional theme of apocalypse and plague, Christopher Buehlman's **_Between Two Fires_** was another highlight from the year. A fever dream odyssey across France during the height of the Black Death, the story presents plague-ridden Europe as a literal hell on Earth, a playground for devils and demons as God has his eye elsewhere. But despite the horrors, there is a thread of hope throughout.
+
+Other highlights from the year included the rollicking magical realism of **_Raise a Holler_**, the pot-boiling noir of **_Blacktop Wasteland_**, the visceral gut punch of **_Between the World and Me_**, and a long-overdue revisit of one of my favorite books **_Ordinary People_**. The full list of the books I read this year is below. The coming year has a lot to live up to!
+
+1. Black Sun - Rebecca Roanhorse
+1. Tapping the Source - Kem Nunn
+1. Raise a Holler - Jason Stuart
+1. Ring Shout - P. Djeli Clark
+1. Tender is the Flesh - Agustina Bazterrica
+1. A Luminous Republic - Andres Barba
+1. Saint X - Alexis Schaitkin
+1. Blacktop Wasteland - S.A. Cosby
+1. Followers - Megan Angelo
+1. Dragon Wing,
+1. Elven Star,
+1. Fire Sea - Margaret Weis/Tracy Hickman
+1. Between the World and Me - Ta-Nehisi Coates
+1. Let's Get Back to the Party - Zak Salih
+1. The Cold Cold Ground - Adrian McKinty
+1. Below - Lee Gaiteri
+1. The COmmitments - Roddy Doyle
+1. Ordinary People - Judith Guest
+1. Farm and Other F Words - Sarah K Mock
+1. The Misenchanted Sword - Lawrence Watt-Evans
+1. The Winter King - Bernard Cornwell
+1. Disco's Out...Murder's In! - Heath Mattioli, David Spacone
+1. Between Two Fires - Christopher Buehlman
+1. Those WHo Hunt the Night - Barbara Hambly
+1. Greenlights - Matthew McConaughey
+1. The Whisper Man - Alex North
+1. Blackwood - Michael Farris Smith
+1. The Lord of the Rings (one volume edition) - JRR Tolkien
+1. The Hell Bent Kid - Charles O Locke
+1. The Winter of Frankie Machine - Don Winslow
