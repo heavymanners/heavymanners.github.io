@@ -1,6 +1,6 @@
 ---
 title: 'Meesh Meesh'
-excerpt: Wherein I reflect, briefly, on another perfect meal.
+excerpt: '...From the first bite of the beets - sweet and earthy, the creaminess of the cheese adding richness, the freshness of the mint cutting through it all - it is clear that we are in for an incredible meal. We look at each other and the only thing I can think to say is, "Holy shit." The intensity of flavor overpowers our ability to be articulate.'
 publishDate: 2025-10-25T21:24:14-04:00
 isFeatured: true
 tags:

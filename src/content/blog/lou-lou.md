@@ -1,7 +1,7 @@
 ---
 title: 'Lou Lou Nulu'
 publishDate: 2023-03-25T21:16:32-04:00
-excerpt: Wherein I reflect, briefly, on allyship and dinner.
+excerpt: 'I am now struck by the subtlety of it all. Five orders placed, and our server, for whatever reason, has attempted to correct the women, but not the men. I have to admit that it escaped my notice in the moment. It did not escape the notice of the ladies...'
 tags:
   - food
   - review

@@ -1,7 +1,7 @@
 ---
 title: 'The Capitol Grille'
 publishDate: 2023-03-13T00:00:00-04:00
-excerpt: Wherein I reflect, briefly, on a dinner at a new steakhouse.
+excerpt: 'The menu is, in a word, boring. There is not a single original idea or even compelling choice on the menu. It is without a doubt the most "by the book" steak house menu I''ve ever encountered. The only phrase that piques interest is the steak that comes with fig essence. I presume they let the steak rest in the vicinity of some figs before bringing it to the table.'
 tags:
   - food
   - review

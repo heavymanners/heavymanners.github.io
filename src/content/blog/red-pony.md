@@ -1,6 +1,6 @@
 ---
 title: 'Red Pony'
-excerpt: Wherein I reflect, briefly, on a perfect meal.
+excerpt: 'A party of eight and we each ordered something different. I opted for the bacon wrapped elk meatloaf served with shitake gravy, sherry glazed carrots, Yukon potato puree, and huckleberry. It is rustic and refined at once. The combination of sweet and savory flavors is incredibly precise in its balance. It is rich. It is robust, but each flavor finds a way to shine. The textures blend beautifully. It is, in a word, perfect.'
 publishDate: 2023-03-15T21:24:14-04:00
 isFeatured: true
 tags:
