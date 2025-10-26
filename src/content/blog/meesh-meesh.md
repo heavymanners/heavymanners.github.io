@@ -14,8 +14,6 @@ seo:
 
 ![Meesh Meesh](/meesh.jpg)
 
-Here's my overwrought thoughts about my recent visit to Meesh Meesh:
-
 It's a Friday night in October. Though the evening air is not yet crisp, the warmth of summer has finally loosened its grip, and as the sun lowers over East Market, the neighborhood bustles with activity. It's a Nulu Nights event: the stores are open late, artists hawk their wares at a night market, a brass band wanders the street playing in different spots, and music and laughter spill out of the many restaurants and bars lining the street. It is in this setting that I am about to have one of the best meals of my entire life as my partner and I arrive at Meesh Meesh for the reservations I made two months prior.
 
 We enter a cozy and bohemian room with natural woods, leather bar stools, hanging plants, and golden string lights. It thrums with conversation and music. We are warmly greeted and quickly seated in one of the two window spots at a beautiful and rustic table crafted from a cross section of red oak. We have a good view of the people passing by and the neon sunset.
