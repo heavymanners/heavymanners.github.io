@@ -1,7 +1,7 @@
 ---
 title: 'Naive'
 publishDate: 2026-07-15T21:16:32-04:00
-excerpt: '...'
+excerpt: '...From the impeccable, attentive service to the freshness of the ingredients, Naive hits every single mark. It captures an elusive balance. The room has energy, but also has a relaxed vibe. It is airy and filled with plants while also being clean and modern. The dishes range from elegant to rustic but are all served with art. Naive brings culinary precision to the table without ever sanitizing the raw, unpolished spirit of the neighborhood it calls home.'
 tags:
   - food
   - review
